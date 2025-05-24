@@ -1,7 +1,3 @@
-# Research_Project_Data_System_SQL
-
-# Original Project Outline
-
 # Project Title:
 Database Design for Capturing Research Project and Scientist Information
 
